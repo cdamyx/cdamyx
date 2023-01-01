@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cdamyx
-- 👀 I’m interested in full stack development
+- 👀 I’m interested in science, full stack development, family, friends, and dogs
 - 🌱 I’m currently learning Typescript, Python, and automated testing
 - 💞️ I’m looking to collaborate on literally anything
 
