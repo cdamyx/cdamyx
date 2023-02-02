@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cdamyx
+- 👋 Hi, I’m @cdamyx!
 - 👀 I’m interested in science, full stack development, family, friends, and animals
 - 🌱 I’m currently learning Typescript, Python, and automated testing
 - 💞️ I’m looking to collaborate on literally anything, and interested in new positions
